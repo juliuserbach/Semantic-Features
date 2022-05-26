@@ -12,5 +12,5 @@ datetime
 wget
 IPython[all]
 open3d
-tensorflow==1.13.1
+tensorflow==2.7.2
 keras
